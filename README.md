@@ -2,25 +2,24 @@
 
 **Live Demo:** [talkspark-two.vercel.app](https://talkspark-two.vercel.app/)
 
-TalkSpark is a modern real-time chat application that allows users to communicate seamlessly. Built for speed, simplicity, and responsiveness, it's ideal for dynamic conversations in a sleek UI.
+TalkSpark is a modern real-time chat application built with Next.js. It offers fast, scalable, and interactive messaging features with a clean and responsive user interface.
 
 ## 🌟 Features
 
 - 💬 Real-time messaging  
-- 🧑‍🤝‍🧑 One-on-one and group chats  
-- 🔐 Secure authentication   
-- 📱 Fully responsive design for all devices  
-- 🔔 Instant notifications  
+- 🧑‍🤝‍🧑 One-on-one and group chat support  
+- 🔐 User authentication 
+- 📱 Responsive design for desktop and mobile  
+- 🔔 Instant message notifications  
 - 🌙 Dark/light mode toggle 
 
 ## 🛠️ Tech Stack
 
-> *(Please update based on your actual stack)*
-
-- **Frontend:** React.js, Tailwind CSS, Vite  
-- **Backend:** Node.js, Express (or Firebase, Supabase, etc.)  
+- **Framework:** [Next.js] 
+- **Styling:** Tailwind CSS  
+- **Backend:** Node.js, API Routes or Firebase/Supabase   
 - **Database:** MongoDB / Firebase / Supabase  
-- **Deployment:** Vercel
+- **Deployment:** [Vercel]
 
 ## 🚀 Getting Started
 
