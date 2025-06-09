@@ -10,7 +10,6 @@ TalkSpark is a modern real-time chat application that allows users to communicat
 - 🧑‍🤝‍🧑 One-on-one and group chats  
 - 🔐 Secure authentication   
 - 📱 Fully responsive design for all devices  
-- 📤 Media and file sharing   
 - 🔔 Instant notifications  
 - 🌙 Dark/light mode toggle 
 
