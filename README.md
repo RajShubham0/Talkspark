@@ -8,11 +8,11 @@ TalkSpark is a modern real-time chat application that allows users to communicat
 
 - 💬 Real-time messaging  
 - 🧑‍🤝‍🧑 One-on-one and group chats  
-- 🔐 Secure authentication (if implemented)  
+- 🔐 Secure authentication   
 - 📱 Fully responsive design for all devices  
-- 📤 Media and file sharing (optional)  
+- 📤 Media and file sharing   
 - 🔔 Instant notifications  
-- 🌙 Dark/light mode toggle (if available)
+- 🌙 Dark/light mode toggle 
 
 ## 🛠️ Tech Stack
 
@@ -32,6 +32,6 @@ TalkSpark is a modern real-time chat application that allows users to communicat
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/talkspark.git
+git clone https://github.com/RajShubham0/talkspark.git
 cd talkspark
 npm install
